@@ -1,4 +1,4 @@
-# MovIntPlayLab - Movement, Interaction & Play Lab
+# MovIntPlayLab
 
 A design & research program focused on Embodied Interaction, Technology, and Play design. We design movement-based experiences for play, physical activity, and training supported by technology. 
 
