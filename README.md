@@ -59,9 +59,9 @@ The team behind this programme involves PhD, graduate and undergraduate students
 **Elena Márquez Segura** (pronouns: she/her). Principal Investigator leading this programme, is a Beatriz Galindo Distinguished Researcher and Assistant Professor in the Department of Computer Science and Engineering at Universidad Carlos III de Madrid. Elena has a multidisciplinary background, with a B.Sc. and M.Sc in Telecommunication Engineering (Escuela Técnica Superior de Ingenieros, Universidad de Sevilla); Master's studies in Interactive Systems Engineering (KTH, Royal Institute of Technology, Stockholm); and a Ph.Lic. and Ph.D. in Human-Computer Interaction (Stockholm University, Stockholm; and Uppsala University, Uppsala, respectively).
 
 
-You can read more about Elena’s work here: https://scholar.google.com/citations?hl=es&user=EginuQIAAAAJ
+You can read more about [Elena’s work in Google Scholar](https://scholar.google.com/citations?hl=es&user=EginuQIAAAAJ)
 
-You can also follow Elena in Twitter: [@in_spiral](https://twitter.com/in_spiral) and Linkedin: https://www.linkedin.com/in/elena-marquez-segura/
+You can also follow Elena in Twitter: [@in_spiral](https://twitter.com/in_spiral) and [Linkedin](https://www.linkedin.com/in/elena-marquez-segura/)
 
 
 ### Students
@@ -89,11 +89,11 @@ They enjoy running, cycling, walking, and cooking and eating plant-based food.
 
 ### Collaborators 
 
-**Ana Tajadura Jiménez**, an Associate Professor at UC3M and Honorary Research associate at the University College London Interaction Centre (UCLIC). She leads the i_mBODY lab (https://imbodylab.com/), in which research focuses on understanding how sensory-based interaction technologies could be used to alter people’s perceptions of their own body, their emotional state and their motor behaviour patterns. Her research is empirical and multidisciplinary, combining perspectives of psychoacoustics, neuroscience and Human-Computer Interaction (HCI).
+**Ana Tajadura Jiménez**, an Associate Professor at UC3M and Honorary Research associate at the University College London Interaction Centre (UCLIC). She leads the [i_mBODY lab](https://imbodylab.com/), in which research focuses on understanding how sensory-based interaction technologies could be used to alter people’s perceptions of their own body, their emotional state and their motor behaviour patterns. Her research is empirical and multidisciplinary, combining perspectives of psychoacoustics, neuroscience and Human-Computer Interaction (HCI).
 
-**Annika Waern**, Full professor in the Department of Informatics and Media, at Uppsala University (https://www.katalog.uu.se/profile/?id=N13-228). Annika is a ‘Research through Design’ academic with a background in computer science and Human-Computer Interaction, who has been researching play and games for about fifteen years. Recently, Annika has been involved with studying technology-supported physical training and hybrid play design for children, adults and families. Annika is a DiGRA (Digital Games Research Association) distinguished scholar and a HEVGA (Higher Education Video Game Alliance) fellow.
+**Annika Waern**, Full professor in the Department of Informatics and Media, at [Uppsala University](https://www.katalog.uu.se/profile/?id=N13-228). Annika is a ‘Research through Design’ academic with a background in computer science and Human-Computer Interaction, who has been researching play and games for about fifteen years. Recently, Annika has been involved with studying technology-supported physical training and hybrid play design for children, adults and families. Annika is a DiGRA (Digital Games Research Association) distinguished scholar and a HEVGA (Higher Education Video Game Alliance) fellow.
 
-**Katherine Isbister**, full professor in the University of California, Santa Cruz's Department of Computational Media, where she directs the Social Emotional Technology Lab (https://setlab.soe.ucsc.edu/about/), and the Center for Computational Experience. She has a Research through Design practice at the intersection of Human Computer Interaction and Games/Play, focused on interactive experiences that heighten social and emotional connections and wellbeing.
+**Katherine Isbister**, full professor in the University of California, Santa Cruz's Department of Computational Media, where she directs the [Social Emotional Technology Lab](https://setlab.soe.ucsc.edu/about/), and the Center for Computational Experience. She has a Research through Design practice at the intersection of Human Computer Interaction and Games/Play, focused on interactive experiences that heighten social and emotional connections and wellbeing.
 
 **Andrés Maldonado Morillo**, Plastic and Reconstructive Surgeon at University Hospital of Getafe
 
@@ -108,4 +108,4 @@ Several projects and initiatives are currently funding this program.
 
 The program is mainly funded by the Madrid Government (Comunidad de Madrid) under the Multiannual Agreement with UC3M in the line of "Research Funds for Beatriz Galindo Fellowships" (MovIntPlayLab-CM-UC3M), and in the context of the V PRICIT (Regional Programme of Research and Technological Innovation)".
 
-Other synergistic projects also support this program. Currently: the Erasmus+ MeCaMInD project: The Method Cards for Movement-based Interaction Design (2020-1-DK01- KA203-075164), focused on studying and creating movement-based methods and tools to support technology design targeting the moving body. https://www.mecamind.eu/project.php
+Other synergistic projects also support this program. Currently: the [Erasmus+ MeCaMInD project](https://www.mecamind.eu/project.php): The Method Cards for Movement-based Interaction Design (2020-1-DK01- KA203-075164), focused on studying and creating movement-based methods and tools to support technology design targeting the moving body.
