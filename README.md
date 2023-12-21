@@ -52,7 +52,7 @@ We have worked with very diverse technology, from mobile technology to robots. O
 
 Lately, our focus is on wearable technology, i.e. technology you wear on your body, like a watch, belt, necklace, or scarf. We are also working with extended reality (VR, AR…)
 
-##  People 
+#  People 
 
 The team behind this programme involves PhD, graduate and undergraduate students; as well as collaborators in UC3M and abroad. This team is highly multidisciplinary, involving expertise in areas such as Computer Science, Design, Physical Therapy, Pedagogy, Medicine, Arts, and Dance. 
 
@@ -63,7 +63,7 @@ You can read more about [Elena’s work in Google Scholar](https://scholar.googl
 You can also follow Elena in Twitter: [@in_spiral](https://twitter.com/in_spiral) and [Linkedin](https://www.linkedin.com/in/elena-marquez-segura/)
 
 
-### Students
+## Students
 
 **José Vega** (pronouns: they/them, he/him) is a movement and computing researcher-designer and a PhD student in Computer Science and Technology. They are currently researching and developing Playful Wearables and Augmented Technologies for Body Experiences, Rehabilitation and Physical Training.
 
@@ -73,18 +73,18 @@ Their previous academic degrees are a Master’s in Interactive Telecommunicatio
 **Alejandro Molina Benito**
 
 
-### Alumni
+## Alumni
 
 **Laia Turmo Vidal**
 
 **Julián Sainz Martínez**
 
 
-### Lab technicians  
+## Lab technicians  
 
 **Javier García Hernández**
 
-### Collaborators 
+## Collaborators 
 
 **Ana Tajadura Jiménez**, an Associate Professor at UC3M and Honorary Research Associate at the University College London Interaction Centre (UCLIC). She leads the [i_mBODY lab](https://imbodylab.com/), in which research focuses on understanding how sensory-based interaction technologies could be used to alter people’s perceptions of their own body, their emotional state and their motor behaviour patterns. Her research is empirical and multidisciplinary, combining perspectives of psychoacoustics, neuroscience and Human-Computer Interaction (HCI).
 
@@ -131,7 +131,7 @@ Ana Tajadura-Jimenez, Judith Ley-Flores, Omar Valdiviezo, Aneesha Singh, Milagro
 
 James Fey, Ella Dagan, Elena Márquez Segura, and Katherine Isbister. 2022. Anywear Academy: A Larp-based Camp to Inspire Computational Interest in Middle School Girls. In *Proceedings of the 2022 ACM Designing Interactive Systems Conference (DIS '22)*. Association for Computing Machinery, New York, NY, USA, 1192–1208. [https://doi.org/10.1145/3532106.3533532](https://doi.org/10.1145/3532106.3533532)
 
-## Funding 
+# Funding 
 Several projects and initiatives are currently funding this program. 
 
 The program is mainly funded by the Madrid Government (Comunidad de Madrid) under the Multiannual Agreement with UC3M in the line of "Research Funds for Beatriz Galindo Fellowships" (MovIntPlayLab-CM-UC3M) and in the context of the V PRICIT (Regional Programme of Research and Technological Innovation)".
