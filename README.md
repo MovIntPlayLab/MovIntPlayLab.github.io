@@ -56,7 +56,7 @@ Lately, our focus is on wearable technology, i.e. technology you wear on your bo
 
 The team behind this programme involves PhD, graduate and undergraduate students; as well as collaborators in UC3M and abroad. This team is highly multidisciplinary, involving expertise in areas such as Computer Science, Design, Physical Therapy, Pedagogy, Medicine, Arts, and Dance. 
 
-**Elena Márquez Segura** (pronouns: she/her). Principal Investigator leading this programme, is a Beatriz Galindo Distinguished Researcher and Assistant Professor in the Department of Computer Science and Engineering at Universidad Carlos III de Madrid. Elena has a multidisciplinary background, with a B.Sc. and M.Sc in Telecommunication Engineering (Escuela Técnica Superior de Ingenieros, Universidad de Sevilla); Master's studies in Interactive Systems Engineering (KTH, Royal Institute of Technology, Stockholm); and a Ph. Lic. and PhD in Human-Computer Interaction (Stockholm University, Stockholm; and Uppsala University, Uppsala, respectively).
+**Elena Márquez Segura** (pronouns: she/her, [ORCiD 0000-0002-3124-2286](https://orcid.org/0000-0002-3124-2286)). Principal Investigator leading this programme, is a Beatriz Galindo Distinguished Researcher and Assistant Professor in the Department of Computer Science and Engineering at Universidad Carlos III de Madrid. Elena has a multidisciplinary background, with a B.Sc. and M.Sc in Telecommunication Engineering (Escuela Técnica Superior de Ingenieros, Universidad de Sevilla); Master's studies in Interactive Systems Engineering (KTH, Royal Institute of Technology, Stockholm); and a Ph. Lic. and PhD in Human-Computer Interaction (Stockholm University, Stockholm; and Uppsala University, Uppsala, respectively).
 
 You can read more about [Elena’s work in Google Scholar](https://scholar.google.com/citations?hl=es&user=EginuQIAAAAJ)
 
@@ -65,13 +65,13 @@ You can also follow Elena in Twitter: [@in_spiral](https://twitter.com/in_spiral
 
 ## PhD Students
 
-**José Vega** (pronouns: they/them, he/him) is a movement and computing researcher-designer and a PhD student in Computer Science and Technology. They are currently researching and developing Playful Wearables and Augmented Technologies for Body Experiences, Rehabilitation and Physical Training.
+**José Vega** (pronouns: they/them, he/him, [ORCiD 0000-0002-2013-2954](https://orcid.org/0000-0002-2013-2954)) is a movement and computing researcher-designer and a PhD student in Computer Science and Technology. They are currently researching and developing Playful Wearables and Augmented Technologies for Body Experiences, Rehabilitation and Physical Training.
 
 Their previous academic degrees are a Master’s in Interactive Telecommunications (ITP) from New York University Tisch School of the Arts and a Bachelor of Science in Telecommunications and Electronic Systems from Tecnológico de Monterrey, Campus Ciudad de México. They were a Creative Coding teacher in CENTRO de Diseño, Cine y Televisión (México) and a Computer Science teacher in the International Baccalaureate (IB) program in Tecnológico de Monterrey, Campus Ciudad de México.
 
 ## Alumni
 
-**Laia Turmo Vidal**
+**Laia Turmo Vidal** ([ORCiD 0000-0002-1769-0138](https://orcid.org/0000-0002-1769-0138))
 
 **Julián Sainz Martínez**
 
@@ -83,17 +83,17 @@ Their previous academic degrees are a Master’s in Interactive Telecommunicatio
 
 ## Collaborators 
 
-**Ana Tajadura Jiménez**, an Associate Professor at UC3M and Honorary Research Associate at the University College London Interaction Centre (UCLIC). She leads the [i_mBODY lab](https://imbodylab.com/), in which research focuses on understanding how sensory-based interaction technologies could be used to alter people’s perceptions of their own body, their emotional state and their motor behaviour patterns. Her research is empirical and multidisciplinary, combining perspectives of psychoacoustics, neuroscience and Human-Computer Interaction (HCI).
+**Ana Tajadura Jiménez** ([ORCiD 0000-0003-3166-3512](https://orcid.org/0000-0003-3166-3512)), an Associate Professor at UC3M and Honorary Research Associate at the University College London Interaction Centre (UCLIC). She leads the [i_mBODY lab](https://imbodylab.com/), in which research focuses on understanding how sensory-based interaction technologies could be used to alter people’s perceptions of their own body, their emotional state and their motor behaviour patterns. Her research is empirical and multidisciplinary, combining perspectives of psychoacoustics, neuroscience and Human-Computer Interaction (HCI).
 
-**Annika Waern**, Full professor in the Department of Informatics and Media, at [Uppsala University](https://www.katalog.uu.se/profile/?id=N13-228). Annika is a ‘Research through Design’ academic with a background in computer science and Human-Computer Interaction, who has been researching play and games for about fifteen years. Recently, Annika has been involved with studying technology-supported physical training and hybrid play design for children, adults and families. Annika is a DiGRA (Digital Games Research Association) distinguished scholar and a HEVGA (Higher Education Video Game Alliance) fellow.
+**Annika Waern** ([ORCiD 0000-0003-1998-1964](https://orcid.org/0000-0003-1998-1964)), Full professor in the Department of Informatics and Media, at [Uppsala University](https://www.katalog.uu.se/profile/?id=N13-228). Annika is a ‘Research through Design’ academic with a background in computer science and Human-Computer Interaction, who has been researching play and games for about fifteen years. Recently, Annika has been involved with studying technology-supported physical training and hybrid play design for children, adults and families. Annika is a DiGRA (Digital Games Research Association) distinguished scholar and a HEVGA (Higher Education Video Game Alliance) fellow.
 
-**Katherine Isbister**, full professor in the University of California, Santa Cruz's Department of Computational Media, where she directs the [Social Emotional Technology Lab](https://setlab.soe.ucsc.edu/about/), and the Center for Computational Experience. She has a Research through Design practice at the intersection of Human-Computer Interaction and Games/Play, focused on interactive experiences that heighten social and emotional connections and well-being.
+**Katherine Isbister** ([ORCiD 0000-0003-2459-4045](https://orcid.org/0000-0003-2459-4045)), full professor in the University of California, Santa Cruz's Department of Computational Media, where she directs the [Social Emotional Technology Lab](https://setlab.soe.ucsc.edu/about/), and the Center for Computational Experience. She has a Research through Design practice at the intersection of Human-Computer Interaction and Games/Play, focused on interactive experiences that heighten social and emotional connections and well-being.
 
-**Andrés Maldonado Morillo**, Plastic and Reconstructive Surgeon at University Hospital of Getafe
+**Andrés Maldonado Morillo** ([ORCiD 0000-0002-3703-5667](https://orcid.org/0000-0002-3703-5667)), Plastic and Reconstructive Surgeon at University Hospital of Getafe
 
-**Lara Cristóbal Velasco**, Plastic and Reconstructive Surgeon at University Hospital of Getafe
+**Lara Cristóbal Velasco** ([ORCiD 0000-0001-7328-4890](https://orcid.org/0000-0001-7328-4890)), Plastic and Reconstructive Surgeon at University Hospital of Getafe
 
-**Tomas Bonino**. Physiotherapist, movement coach, entrepreneur.
+**Tomas Bonino** ([ORCiD 0009-0005-4437-9774](https://orcid.org/0009-0005-4437-9774)). Physiotherapist, movement coach, entrepreneur.
 
 **Alfredo Miralles**. Cultural manager, teacher and artist. Universidad Carlos III de Madrid
 
