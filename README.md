@@ -100,6 +100,10 @@ Their previous academic degrees are a Master’s in Interactive Telecommunicatio
 # Publications
 
 ## 2024 
+José Manuel Vega-Cebrián, Laia Turmo Vidal, Ana Tajadura-Jiménez, Tomás Bonino Covas, and Elena Márquez Segura. 2024. **Movits: a Minimalist Toolkit for Embodied Sketching**. In *Designing Interactive Systems Conference (DIS ’24), July 1–5, 2024, IT University of Copenhagen, Denmark*. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3643834.3660706](https://doi.org/10.1145/3643834.3660706)
+
+Laia Turmo Vidal, José Manuel Vega-Cebrián, María Concepción Valdez Gastelum, Elena Márquez Segura, Judith Ley-Flores, Joaquín Roberto Díaz Durán, and Ana Tajadura-Jiménez. 2024. **Body Sensations as Design Material: An Approach to Design Sensory Technology for Altering Body Perception**. In *Designing Interactive Systems Conference (DIS ’24), July 1–5, 2024, IT University of Copenhagen, Denmark*. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3643834.3660701](https://doi.org/10.1145/3643834.3660701)
+
 Elena Márquez Segura, José Manuel Vega-Cebrián, Andrés A. Maldonado Morillo, Lara Cristóbal Velasco, and Andrea Bellucci. 2024. **Embodied Hybrid Bodystorming to Design an XR Suture Training Experience**. In *Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’24), February 11–14, 2024, Cork, Ireland*. ACM, New York, NY, USA, 12 pages. [https://doi.org/10.1145/3623509.3633362](https://doi.org/10.1145/3623509.3633362) ([Download paper](https://zenodo.org/records/10974396), [Download slideshow](https://zenodo.org/records/10965248))
 
 José Manuel Vega-Cebrián, Elena Márquez Segura, and Ana Tajadura-Jiménez. 2024. **Towards a Minimalist Embodied Sketching Toolkit for Wearable Design for Motor Learning**. In *Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’24), February 11–14, 2024, Cork, Ireland*. ACM, New York, NY, USA, 7 pages. [https://doi.org/10.1145/3623509.3635253](https://doi.org/10.1145/3623509.3635253) ([Download paper](https://zenodo.org/records/10974503))
