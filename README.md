@@ -100,7 +100,7 @@ Their previous academic degrees are a Master’s in Interactive Telecommunicatio
 # Publications
 
 ## 2024 
-José Manuel Vega-Cebrián, Laia Turmo Vidal, Ana Tajadura-Jiménez, Tomás Bonino Covas, and Elena Márquez Segura. 2024. **Movits: a Minimalist Toolkit for Embodied Sketching**. In *Designing Interactive Systems Conference (DIS ’24), July 1–5, 2024, IT University of Copenhagen, Denmark*. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3643834.3660706](https://doi.org/10.1145/3643834.3660706) ([Download paper](https://zenodo.org/records/11281700))
+José Manuel Vega-Cebrián, Laia Turmo Vidal, Ana Tajadura-Jiménez, Tomás Bonino Covas, and Elena Márquez Segura. 2024. **Movits: a Minimalist Toolkit for Embodied Sketching**. In *Designing Interactive Systems Conference (DIS ’24), July 1–5, 2024, IT University of Copenhagen, Denmark*. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3643834.3660706](https://doi.org/10.1145/3643834.3660706) ([Download paper](https://zenodo.org/records/11281700), [download the source code](https://doi.org/10.5281/zenodo.11121429))
 
 Laia Turmo Vidal, José Manuel Vega-Cebrián, María Concepción Valdez Gastelum, Elena Márquez Segura, Judith Ley-Flores, Joaquín Roberto Díaz Durán, and Ana Tajadura-Jiménez. 2024. **Body Sensations as Design Material: An Approach to Design Sensory Technology for Altering Body Perception**. In *Designing Interactive Systems Conference (DIS ’24), July 1–5, 2024, IT University of Copenhagen, Denmark*. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3643834.3660701](https://doi.org/10.1145/3643834.3660701)
 
