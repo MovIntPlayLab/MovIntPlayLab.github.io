@@ -2,7 +2,7 @@
 
 ¿Te gustaría ayudarnos a diseñar tecnología para la rehabilitación? ¿Quieres aprender cómo se puede diseñar tecnología sin tener conocimientos acerca de la misma? En el proyecto MovIntPlay Lab en UC3M, usamos métodos innovadores de diseño de tecnología en los que los/as participantes usan sus propios cuerpos en movimiento e interacción para idear tecnología futura.
 
-[Regístrate en este formulario](https://forms.gle/ub5cXnRQgbWtsPxz7)
+[Regístrate en este formulario: https://forms.gle/ub5cXnRQgbWtsPxz7](https://forms.gle/ub5cXnRQgbWtsPxz7)
 
 **¿Para quién es el taller?** En el taller, invitaremos a personas expertas en rehabilitación, terapia ocupacional y fisioterapia, con experiencia en la rehabilitación de lesiones del nervio periférico en el miembro superior en general, y mano en particular. NO hace falta conocimiento tecnológico previo. En el taller, participarán también personas expertas en diseño y desarrollo de tecnología para el cuerpo y el movimiento.
 
@@ -26,4 +26,4 @@ Este taller está organizado por José Manuel Vega Cebrián, Elena Márquez Segu
 
 Contacto. Para más información acerca del taller, puedes contactar con José Manuel Vega Cebrián josemanuel.vega@uc3m.es y Elena Márquez Segura: elena.marquez@uc3m.es.
 
-[Regístrate en este formulario](https://forms.gle/ub5cXnRQgbWtsPxz7)
+[Regístrate en este formulario: https://forms.gle/ub5cXnRQgbWtsPxz7](https://forms.gle/ub5cXnRQgbWtsPxz7)
