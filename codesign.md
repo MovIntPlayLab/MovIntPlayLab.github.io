@@ -12,7 +12,7 @@
 
 **¿Qué haremos?** En el taller, primero recabaremos información sobre prácticas y actividades comunes para tratar la rehabilitación de nervio periférico. Después, nos prepararemos para el diseño con unas nociones contemporáneas de aprendizaje motor basados en la neuropedagogía del movimiento. Finalmente, nos pondremos manos a la obra co- diseñando juntos/as, ideando, explorando y desarrollando ideas de dispositivos vestibles (wearables) que puedan apoyar en estos procesos de rehabilitación.
 
-**¿Cómo participo?** Registra tus datos en [este formulario](https://forms.gle/ub5cXnRQgbWtsPxz7) antes de las 18:00 del viernes 14 de junio de 2024. Confirmaremos tu participación el lunes 17 de junio de 2024.
+**¿Cómo participo?** Registra tus datos en [este formulario](https://forms.gle/ub5cXnRQgbWtsPxz7). Espera a un correo de nuestra parte confirmando tu participación.
 
 **¿Qué puedo hacer si no me encuentro en Madrid?** Tenemos la posibilidad de cubrir gastos de traslado, así que regístrate indicando tu ubicación actual, y de resultar seleccionad@ nos pondremos en contacto contigo para gestionarlo junto con la agencia de viajes de la universidad.
 
