@@ -14,7 +14,7 @@
 
 **¿Cómo participo?** Registra tus datos en [este formulario](https://forms.gle/ub5cXnRQgbWtsPxz7) antes de las 18:00 del viernes 14 de junio de 2024. Confirmaremos tu participación el lunes 17 de junio de 2024.
 
-**¿Qué puedo hacer si no me encuentro en Madrid?** Tenemos la posibilidad de cubrir gastos de traslado, así que regístrate indicando tu ubicación actual, y de resultar seleccionad@ nos pondremos en contacto contigo para gestionarlo.
+**¿Qué puedo hacer si no me encuentro en Madrid?** Tenemos la posibilidad de cubrir gastos de traslado, así que regístrate indicando tu ubicación actual, y de resultar seleccionad@ nos pondremos en contacto contigo para gestionarlo junto con la agencia de viajes de la universidad.
 
 **¿Quiénes organizan el taller?**
 
