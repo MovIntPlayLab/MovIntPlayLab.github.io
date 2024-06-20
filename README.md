@@ -65,7 +65,7 @@ You can also follow Elena in Twitter: [@in_spiral](https://twitter.com/in_spiral
 
 ## PhD Students
 
-**José Vega** (pronouns: they/them, he/him, [ORCiD 0000-0002-2013-2954](https://orcid.org/0000-0002-2013-2954)) is a movement and computing researcher-designer and a PhD student in Computer Science and Technology. They are currently researching and developing Playful Wearables and Augmented Technologies for Body Experiences, Rehabilitation and Physical Training.
+**José M. Vega-Cebrián** (pronouns: they/them, [ORCiD 0000-0002-2013-2954](https://orcid.org/0000-0002-2013-2954)) is a movement and computing researcher-designer and a PhD student in Computer Science and Technology. They are currently researching and developing Playful Wearables and Augmented Technologies for Body Experiences, Rehabilitation and Physical Training.
 
 Their previous academic degrees are a Master’s in Interactive Telecommunications (ITP) from New York University Tisch School of the Arts and a Bachelor of Science in Telecommunications and Electronic Systems from Tecnológico de Monterrey, Campus Ciudad de México. They were a Creative Coding teacher in CENTRO de Diseño, Cine y Televisión (México) and a Computer Science teacher in the International Baccalaureate (IB) program in Tecnológico de Monterrey, Campus Ciudad de México.
 
